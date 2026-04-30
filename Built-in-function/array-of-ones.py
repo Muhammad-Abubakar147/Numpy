@@ -3,5 +3,5 @@ arr = np.ones((2, 2)) #creating array of ones
 print(arr)
 
 #output
-#[[0. 0. 0.]
-#[0. 0. 0.]]
+#v[[1. 1.]
+#[1. 1.]]
