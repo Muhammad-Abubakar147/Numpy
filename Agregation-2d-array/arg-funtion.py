@@ -4,3 +4,5 @@ arr = np.array([10, 5, 20])
 
 print(np.argmin(arr))  # Index of smallest
 print(np.argmax(arr))  # Index of largest
+
+#output =>1 and 2
