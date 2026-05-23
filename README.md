@@ -18,3 +18,9 @@ Before diving into this series, ensure you have:
 - Creating NumPy arrays
 - Basic properties and attributes of arrays
 - Common array creation methods: `zeros()`, `ones()`, `arange()`, `linspace()`, etc.
+- 
+- ### ✅ **Phase 2: Operations on NumPy Arrays**
+- Indexing, slicing, and iterating
+- Mathematical operations
+- Aggregations: `sum()`, `mean()`, `std()`, etc.
+- Broadcasting and vectorized operations
