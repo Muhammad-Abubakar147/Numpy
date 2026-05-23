@@ -29,3 +29,10 @@ Before diving into this series, ensure you have:
 - Working with real datasets (CSV/TSV files)
 - Using NumPy for data preprocessing
 - Data cleaning and basic analytics with NumPy arrays
+
+- ### ✅ **Phase 4: Image as Matrix**
+- Representing images as NumPy arrays
+- Reading and displaying images using `Pillow` and `matplotlib`
+- Converting images to **Dark Mode** using NumPy operations
+
+---
