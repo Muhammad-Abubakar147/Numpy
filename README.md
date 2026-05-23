@@ -24,3 +24,8 @@ Before diving into this series, ensure you have:
 - Mathematical operations
 - Aggregations: `sum()`, `mean()`, `std()`, etc.
 - Broadcasting and vectorized operations
+
+- ### ✅ **Phase 3: Practice with Real-World Data**
+- Working with real datasets (CSV/TSV files)
+- Using NumPy for data preprocessing
+- Data cleaning and basic analytics with NumPy arrays
