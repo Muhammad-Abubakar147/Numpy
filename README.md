@@ -11,3 +11,10 @@ Before diving into this series, ensure you have:
 - `numpy`, `matplotlib`, and `Pillow` libraries installed (`pip install numpy matplotlib Pillow`)
 
 ---
+## 📚 Series Outline
+
+### ✅ **Phase 1: NumPy Foundation**
+- Understanding what NumPy is and why it's used
+- Creating NumPy arrays
+- Basic properties and attributes of arrays
+- Common array creation methods: `zeros()`, `ones()`, `arange()`, `linspace()`, etc.
