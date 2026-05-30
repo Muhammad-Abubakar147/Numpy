@@ -28,7 +28,7 @@ Before diving into this series, ensure you have:
 - ### ✅ **Phase 3: Practice with Real-World Data**
 - Working with real datasets (CSV/TSV files)
 - Using NumPy for data preprocessing
-- Data cleaning and basic analytics with NumPy arrays
+- Data cleaning and basic analytics with NumPy arrays.
 
 - ### ✅ **Phase 4: Image as Matrix**
 - Representing images as NumPy arrays
